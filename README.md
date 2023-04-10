@@ -50,81 +50,102 @@
 
 • =MÉDIASE() : Calcula a média entre uma série de entradas numéricas, mas ignora qualquer zero encontrado.
 
-• 
+• =MED() : Encontra o valor do meio de uma série de células.
 
+• =MODO() : Analisa uma série de números e retorna o valor mais comum entre eles.
 
+• =SOMARPRODUTO() : Multiplica os valores equivalentes em duas matrizes e retorna a soma de todos eles.
 
+# Matemática
 
+• =SOMA() : Retorna a soma total entre os valores inseridos.
 
+• =SOMASE() : Adiciona os valores de um intervalo especificado apenas se elas passarem em um teste lógico.
 
+• =BDSOMA() : Adiciona os valores de um intervalo especificado se eles coincidirem com condições específicas.
 
+• =FREQÜÊNCIA() : Analisa uma matriz e retorna o número de valores encontrados em um determinado intervalo.
 
+• =MULT() : Multiplica os valores do intervalo.
 
+• =POTÊNCIA() : Calcula a potência entre dois números.
 
+• =MÍNIMO() : Retorna o menor número encontrado em um intervalo.
 
+• =MÁXIMO() : Retorna o maior número encontrado em um intervalo.
 
+• =MENOR() : Igual a =MÍNIMO(), mas pode ser usada para identificar outros valores baixos na sequência.
 
+• =MAIOR() : Igual a =MÁXIMO(), mas pode ser usada para identificar outros valores altos na sequência.
 
+• =FATORIAL() : Calcula o fatorial do número inserido.
 
+# Contagem
 
+• =CONT.VALORES() : Conta o número de células que não estão vazias no intervalo.
 
+• =CONT.SE() : Conta o número de células que passam em um teste lógico.
 
+• =CONTA() : Conta o número de células que possuem números e verifica a presença de um número específico nelas.
 
+• =NÚM.CARACT() : Conta o número de caracteres em um determinado intervalo.
 
+• =NÚM.CARACTB() : Conta o número de caracteres em um determinado intervalo e retorna o valor em número de bytes.
 
+• =INT() : Arredonda números para baixo.
 
+# Conversão
 
+• =CONVERTER() : É usada para converter valores de uma unidade para outra. Aceita conversões de tempo, distância, peso, pressão, força, energia, potência, temperatura, magnetismo, volume, área, informações e velocidade.
 
+• =BIN2DEC() : Converte números binários para decimal.
 
+• =BIN2HEX() : Converte números binários para hexadecimal.
 
+• =BIN2OCT() : Converte números binários para octal.
 
+• =DECABIN() : Converte números decimais para binário.
 
+• =DECAHEX() : Converte números decimais para hexadecimal.
 
+• =DECAOCT() : Converte números decimais para octal.
 
+• =HEXABIN() : Converte números hexadecimais para binário.
 
+• =HEXADEC() : Converte números hexadecimais para decimal.
 
+• =HEXAOCT() : Converte números hexadecimais para octal.
 
+• =OCTABIN() : Converte números octais para binário.
 
+• =OCTADEC() : Converte números octais para decimais.
 
+• =OCTAHEX() : Converte números octais para hexadecimal.
 
+# Texto
 
+• =TEXTO() : Converte uma célula numérica em texto.
 
+• =MAIÚSCULA() : Alterna todos os caracteres em uma célula para letras maiúsculas.
 
+• =MINÚSCULA() : Alterna todos os caracteres em uma célula para letras minuscúlas.
 
+• =PRI.MAIÚSCULA() : Alterna o primeiro caractere de todas as palavras em uma célula para letras maiúsculas.
 
+• =ÉTEXTO() : Verifica se uma célula possui texto.
 
+• =ÉNUM() : Verifica se uma célula possui números.
 
+• =PESQUISAR() : Encontra um número ou letra em uma célula.
 
+• =EXATO() : Verifica se o conteúdo de uma célula é exatamente igual ao inserido.
 
+• =CONCATENAR() : Retorna os valores de várias células em uma única string.
 
+• =CHAR() : Retorna um caractere representante do número especificado em um conjunto.
 
+• =ESQUERDA() : Retorna os caracteres mais a esquerda de uma célula com texto.
 
+• =DIREITA() : Retorna os caracteres mais a direita de uma célula com texto.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+• =EXT.TEXTO() : Retorna o número de caracteres em uma célula com texto.
