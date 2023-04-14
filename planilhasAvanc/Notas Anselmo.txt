@@ -1,0 +1,5 @@
+Curso1	Aplicativo	Word	Básico	7
+Curso2	Aplicativo	Excel	Básico	6,7
+Curso3	Aplicativo	PowerPoint	Básico	8
+Curso4	Aplicativo	Excel	Avançado	7,2
+Curso5	Linguagem	Excel com VBA	Avançado	6
