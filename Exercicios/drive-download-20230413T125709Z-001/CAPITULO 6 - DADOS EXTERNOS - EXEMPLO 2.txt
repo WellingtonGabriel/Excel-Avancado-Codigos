@@ -1,0 +1,23 @@
+Código	Nome	Cargo	Cidade	Loja	Meta Mensal	Data de Aniversário	Data de Admissão			
+10152031	Douglas Picolli	Consultor de Compras	Barra Bonita	3 Manos Mercados	R$ 50.000,00	06/03/1975	10/11/2005			
+10152050	Fernando Jose Abreu	Consultor de Compras	Blumenau	Cervejaria Piccoli	R$ 75.000,00	15/06/1973	01/10/2006			
+10152036	Thais Gomes	Consultor de Compras	São Paulo	Confeitaria Piccoli	R$ 40.000,00	20/07/1974	30/05/2001			
+10152041	Camila Piccoli	Consultor de Compras	São Paulo	Confeitaria Piccoli	R$ 35.000,00	30/04/1981	30/05/2001			
+10152045	Nicole Flores	Consultor de Compras	São Paulo	Confeitaria Piccoli	R$ 50.000,00	22/08/1982	05/01/1989			
+10152034	Daniele Brito	Produtor de Eventos	Barra Bonita	Confeitaria Piccoli	R$ 42.500,00	11/03/1976	11/03/2003			
+10152044	Marcelo Almeida	Produtor de Eventos	Barra Bonita	3 Manos Mercados	R$ 80.000,00	18/08/1976	18/08/1994			
+10152051	Gustavo Flores	Produtor de Eventos	Barra Bonita	3 Manos Mercados	R$ 95.000,00	25/10/1980	01/02/2007			
+10152040	Giovana Torres	Produtor de Eventos	Blumenau	Cervejaria Piccoli	R$ 25.000,00	25/03/1979	20/04/2002			
+10152030	Ana Paula	Produtor de Eventos	São Manoel	3 Manos Mercados	R$ 450.000,00	05/10/1980	01/10/2006			
+10152048	Andréia Pereira	Produtor de Eventos	São Manoel	Confeitaria Piccoli	R$ 30.000,00	16/02/1977	02/03/1972			
+10152038	Renato Tadeu	Assistente de Compras	São Manoel	Confeitaria Piccoli	R$ 58.777,00	10/10/1980	01/10/2006			
+10152033	Maria Eduarda	Assistente de Compras	São Paulo	Confeitaria Piccoli	R$ 300.000,00	20/03/1972	30/01/2004			
+10152035	Claudio Flores	Assistente de Compras	São Paulo	Confeitaria Piccoli	R$ 145.000,00	15/06/1975	20/04/2002			
+10152032	Henrique Olinto	Consultor de Vendas	São Paulo	Confeitaria Piccoli	R$ 8.520,00	15/03/1971	20/12/2004			
+10152037	Rodrigo Júnior	Consultor de Vendas	São Paulo	Confeitaria Piccoli	R$ 45.000,00	16/03/1977	01/10/2006			
+10152042	André Flores	Consultor de Vendas	São Paulo	Confeitaria Piccoli	R$ 25.878,00	15/10/1980	10/11/2005			
+10152046	Fabiana Almeida	Consultor de Vendas	São Paulo	3 Manos Mercados	R$ 14.256,00	20/10/1980	26/05/1983			
+10152039	Gustavo Almeida	Consultor de Vendas	São Manoel	3 Manos Mercados	R$ 32.589,00	18/03/1978	01/10/2006			
+10152049	Maria Fernanda	Consultor de Vendas	São Manoel	Confeitaria Piccoli	R$ 15.987,00	17/04/1975	21/07/1966			
+10152043	Carlos Brito	Consultor de Vendas	São Paulo	Confeitaria Piccoli	R$ 32.458,00	17/07/1975	30/03/2000			
+10152047	Adriana Souza e Silva	Consultor de Vendas	São Paulo	3 Manos Mercados	R$ 148.520,00	19/12/1978	13/10/1977			
